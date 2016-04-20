@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5282314
+  lightness: 0.3067738
+  brandStrength: 1
+  brandColors:
+    - '#010103'
+    - '#15152D'
+    - '#181E38'
+    - '#242546'
+    - '#342B57'
+  rhythmicContrast: 0.6871157
+typography_spectrum: 0.5107411
+name: Dorian_Cordero

@@ -1,28 +1,40 @@
-name: Dorian_Cordero
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.23389
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: UA-76717330-1
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#010103'
-    - '#15152D'
-    - '#181E38'
-    - '#242546'
-    - '#342B57'
-  brandStrength: 0.8125
-  lightness: 0.4375
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3125
+  brandStrength: 1
+  lightness: 0.4375
+  brandColors:
+    - '#020001'
+    - '#858587'
+    - '#58585A'
+    - '#3D3D3F'
+    - '#1B1B1D'
+  rhythmicContrast: 0.75
+typography_spectrum: 0.2207304
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Dorian_Cordero

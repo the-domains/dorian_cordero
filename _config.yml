@@ -1,11 +1,30 @@
-analytics:
-  twitter: null
-  google: UA-76717330-1
-  facebook: null
+typography_spectrum: 0.2207304
+color:
+  saturation: 0.3125
+  brandStrength: 1
+  lightness: 0.4375
+  brandColors:
+    - '#020001'
+    - '#858587'
+    - '#58585A'
+    - '#3D3D3F'
+    - '#1B1B1D'
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: UA-76717330-1
+  facebook: null
+name: Dorian_Cordero
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -18,23 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Mac Evangelist & Amateur Astronomer
 purpose: []
-color:
-  saturation: 0.3125
-  brandStrength: 1
-  lightness: 0.4375
-  brandColors:
-    - '#020001'
-    - '#858587'
-    - '#58585A'
-    - '#3D3D3F'
-    - '#1B1B1D'
-  rhythmicContrast: 0.75
-typography_spectrum: 0.2207304
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: Dorian_Cordero
